@@ -39,7 +39,7 @@ int main(int n,char* a[]){
 		}
 		y+=1;
 		}
-		while(y<lenght);
+		while(y<lenght-1);
 		//Checking
 		for(int i=0;i<lenght;i++){
 			printf("%d\n", arr[i]);
